@@ -17,6 +17,7 @@ function App() {
         <BudgetCard name="Entertainment" amount={200} max={1000}></BudgetCard>
         <BudgetCard name="Entertainment" amount={200} max={1000}></BudgetCard>
         <BudgetCard name="Entertainment" amount={200} max={1000}></BudgetCard>
+        <BudgetCard name="Entertainment" amount={200} max={1000}></BudgetCard>
       </div>
     </Container>
   );
